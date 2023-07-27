@@ -1,0 +1,39 @@
+[
+    {
+        "text": "Portfolio",
+        "description": "Web application that shows apps and programs that I created.",
+        "imagePath": "https://res.cloudinary.com/dwihumutg/image/upload/v1687454355/portfolio/wl7sat0j7awxejuddp0p.png",
+        "content": [
+            [
+                "Introduction",
+                "Welcome to my portfolio application, where I showcase my programming projects and demonstrate my skills and expertise in the field of software development. In this application, you will find a collection of my completed projects, each representing a unique challenge and solution.",
+                "https://res.cloudinary.com/dwihumutg/image/upload/v1687454355/portfolio/wl7sat0j7awxejuddp0p.png"
+            ],
+            [
+                "Objectives",
+                "The primary objective of this portfolio application is to present my programming projects in a visually appealing and organized manner, allowing potential employers or collaborators to easily browse through my work. By providing detailed descriptions and insights into each project, I aim to demonstrate my abilities and passion for software development.",
+                "https://res.cloudinary.com/dwihumutg/image/upload/v1687454540/portfolio/fbnn7oi26clzjv1bivc1.png"
+            ],
+            [
+                "Technologies Used",
+                "For the development of this portfolio application, I utilized modern web technologie such as Flutter. The application is built using the Stacked framework. Data of this website is stored in json file",
+                "assets/images/test.png"
+            ],
+            [
+                "Design and Architecture",
+                "The portfolio application follows a clean and intuitive design, with a user-friendly navigation menu and a visually appealing layout. The architecture is based on a modular component structure, promoting code reusability and maintainability. The application employs a single-page design, allowing users to smoothly navigate between different project descriptions without page reloads.",
+                "assets/images/test.png"
+            ],
+            [
+                "Features and Functionality",
+                "This portfolio application provides a comprehensive overview of my programming projects. Each project has its dedicated page, featuring a concise project description, key features, and screenshots. Users can easily explore the projects, read about their objectives, and assess the technologies and skills utilized.",
+                "assets/images/test.png"
+            ],
+            [
+                "Lessons Learned",
+                "Building this portfolio application has provided valuable insights into the importance of effective presentation and organization when showcasing programming projects. I have also gained a deeper understanding of responsive web design principles and techniques for optimizing performance. Moving forward, I would explore integrating additional features, such as a search functionality or a blog section, to further enhance the application's value.",
+                "assets/images/test.png"
+            ]
+        ]
+    }
+]

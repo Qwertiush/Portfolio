@@ -1,0 +1,36 @@
+[
+    {
+        "text": "Other 1",
+        "description": "Web application that shows apps and programs that I created.",
+        "imagePath": "assets/images/test2.png",
+        "content": [
+            [
+                "Introduction",
+                "Welcome to my portfolio application, where I showcase my programming projects and demonstrate my skills and expertise in the field of software development. In this application, you will find a collection of my completed projects, each representing a unique challenge and solution.",
+                "assets/images/test2.png"
+            ],
+            [
+                "Objectives",
+                "The primary objective of this portfolio application is to present my programming projects in a visually appealing and organized manner, allowing potential employers or collaborators to easily browse through my work. By providing detailed descriptions and insights into each project, I aim to demonstrate my abilities and passion for software development.",
+                "assets/images/test.png"
+            ]
+        ]
+    },
+    {
+        "text": "Other 2",
+        "description": "Web application that shows apps and programs that I created.",
+        "imagePath": "assets/images/test2.png",
+        "content": [
+            [
+                "Introduction",
+                "Welcome to my portfolio application, where I showcase my programming projects and demonstrate my skills and expertise in the field of software development. In this application, you will find a collection of my completed projects, each representing a unique challenge and solution.",
+                "assets/images/test2.png"
+            ],
+            [
+                "Objectives",
+                "The primary objective of this portfolio application is to present my programming projects in a visually appealing and organized manner, allowing potential employers or collaborators to easily browse through my work. By providing detailed descriptions and insights into each project, I aim to demonstrate my abilities and passion for software development.",
+                "assets/images/test.png"
+            ]
+        ]
+    }
+]
